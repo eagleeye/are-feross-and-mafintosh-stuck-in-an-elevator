@@ -4,7 +4,7 @@
   "description": "Are @feross and @mafintosh stuck in an elevator?",
   "main": "index.js",
   "dependencies": {
-    "false": "git://github.com/mde/false"
+    "false": "0.0.4"
   },
   "devDependencies": {
     "standard": "^5.0.0"
