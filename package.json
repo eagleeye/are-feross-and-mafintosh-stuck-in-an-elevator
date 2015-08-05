@@ -3,7 +3,9 @@
   "version": "2.0.0",
   "description": "Are @feross and @mafintosh stuck in an elevator?",
   "main": "index.js",
-  "dependencies": {},
+  "dependencies": {
+    "false": "git://github.com/mde/false"
+  },
   "devDependencies": {
     "standard": "^5.0.0"
   },

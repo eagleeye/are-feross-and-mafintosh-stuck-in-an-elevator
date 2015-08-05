@@ -1,3 +1,3 @@
 module.exports = function () {
-  return false // we've been rescued!
+  return require('false') // we've been rescued!
 }
